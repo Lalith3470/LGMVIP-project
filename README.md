@@ -1,2 +1,2 @@
 # LGMVIP
-LGMVIP on webdevelopment
+LGMVIP tasks on web development
