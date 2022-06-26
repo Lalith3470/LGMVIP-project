@@ -1,4 +1,4 @@
-
+/*Lalith Kiran*/
 *{
     margin: 0;
     padding: 0;
@@ -15,7 +15,6 @@
     background: linear-gradient(#2d3739,#fdffff);
   }
   .center{
-    /* display: none; */
     width: 350px;
     background: black;
     border-radius: 20px;
